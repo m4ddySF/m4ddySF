@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @m4ddySF
-- 👀 I’m interested in Web Dev, Android, and Cyber-Sec
-- 🌱 I’m currently learning IoT
+- 👋 Hi, I’m Arpan.
+- 👀 Interested in Data Science, AOSP, Android, and Cyber-Sec.
+- 🌱 I’m currently learning about Statistics and NAS Servers.
 - 📫 How to reach me arpg2418@gmail.com
 
 <!---
